@@ -1,0 +1,363 @@
+﻿Date,Item,Sales Rep,Quantity,Price,Commission
+01-07-2018,Projector,Bob,13,150,11%
+01-07-2018,White Board,Mark,8,40,9%
+01-07-2018,White Board,Stacey,7,40,7%
+01-07-2018,White Board,Mark,18,40,8%
+01-07-2018,Office Chair,Stacey,19,230,6%
+01-07-2018,Projector,John,4,150,10%
+02-07-2018,Printer,Bob,9,80,6%
+02-07-2018,Printer,Laura,16,80,2%
+02-07-2018,Office Chair,Mark,15,230,9%
+02-07-2018,Diary,Bob,15,16,1%
+02-07-2018,Office Chair,John,7,230,2%
+02-07-2018,Diary,Laura,23,16,11%
+02-07-2018,White Board,Bob,20,40,5%
+03-07-2018,Office Chair,Mark,9,230,3%
+03-07-2018,White Board,Stacey,23,40,6%
+03-07-2018,White Board,Stacey,4,40,5%
+03-07-2018,Projector,John,13,150,5%
+03-07-2018,Office Chair,Mark,7,230,1%
+03-07-2018,Office Chair,Mark,7,230,8%
+03-07-2018,Office Chair,Laura,15,230,4%
+03-07-2018,White Board,Stacey,15,40,3%
+03-07-2018,White Board,Laura,2,40,3%
+03-07-2018,Projector,Laura,2,150,2%
+04-07-2018,Office Chair,John,3,230,11%
+04-07-2018,White Board,Laura,4,40,6%
+04-07-2018,White Board,Stacey,13,40,6%
+04-07-2018,Diary,Stacey,15,16,12%
+04-07-2018,Printer,John,14,80,8%
+04-07-2018,Diary,John,7,16,8%
+04-07-2018,Projector,Mark,13,150,2%
+04-07-2018,Projector,Laura,9,150,2%
+04-07-2018,White Board,John,9,40,1%
+05-07-2018,Printer,Bob,9,80,7%
+05-07-2018,Office Chair,Mark,22,230,11%
+05-07-2018,Projector,Mark,15,150,2%
+05-07-2018,Office Chair,Bob,5,230,12%
+05-07-2018,White Board,Laura,20,40,1%
+05-07-2018,White Board,John,23,40,3%
+05-07-2018,Printer,Bob,16,80,5%
+05-07-2018,Office Chair,Laura,18,230,1%
+05-07-2018,White Board,Bob,23,40,5%
+05-07-2018,Diary,Stacey,5,16,9%
+05-07-2018,White Board,John,22,40,2%
+06-07-2018,Projector,John,23,150,10%
+06-07-2018,Office Chair,Mark,22,230,4%
+06-07-2018,Printer,Stacey,16,80,7%
+06-07-2018,Projector,Laura,22,150,9%
+06-07-2018,Printer,Laura,5,80,9%
+06-07-2018,Printer,Stacey,16,80,10%
+06-07-2018,Projector,Mark,23,150,11%
+06-07-2018,Diary,Mark,4,16,9%
+06-07-2018,Diary,Mark,4,16,7%
+06-07-2018,Diary,John,16,16,3%
+06-07-2018,White Board,Stacey,18,40,4%
+06-07-2018,Printer,Stacey,21,80,2%
+06-07-2018,Printer,Bob,10,80,6%
+06-07-2018,Office Chair,Laura,7,230,1%
+07-07-2018,Diary,Bob,11,16,12%
+07-07-2018,Printer,Stacey,10,80,10%
+07-07-2018,White Board,Mark,23,40,6%
+07-07-2018,Projector,Bob,7,150,2%
+07-07-2018,Printer,John,17,80,7%
+07-07-2018,Projector,Mark,20,150,9%
+07-07-2018,Office Chair,Stacey,23,230,6%
+07-07-2018,Printer,Mark,16,80,4%
+07-07-2018,Office Chair,Bob,22,230,10%
+07-07-2018,Office Chair,Laura,15,230,11%
+07-07-2018,White Board,Mark,15,40,4%
+07-07-2018,Printer,Mark,2,80,7%
+08-07-2018,Projector,John,22,150,5%
+08-07-2018,White Board,Bob,20,40,7%
+08-07-2018,Office Chair,Stacey,2,230,9%
+08-07-2018,White Board,Stacey,7,40,11%
+08-07-2018,Printer,Stacey,7,80,7%
+08-07-2018,White Board,Stacey,9,40,6%
+08-07-2018,White Board,John,18,40,11%
+08-07-2018,Office Chair,John,20,230,4%
+08-07-2018,Printer,Laura,23,80,5%
+08-07-2018,Projector,Bob,11,150,9%
+08-07-2018,Projector,John,17,150,12%
+08-07-2018,Office Chair,Bob,2,230,8%
+08-07-2018,Printer,Laura,10,80,11%
+09-07-2018,Diary,Stacey,22,16,3%
+09-07-2018,Diary,Laura,9,16,5%
+09-07-2018,White Board,Laura,4,40,10%
+09-07-2018,Printer,Bob,9,80,2%
+09-07-2018,Office Chair,Laura,6,230,5%
+09-07-2018,Printer,Stacey,14,80,5%
+09-07-2018,Diary,Bob,17,16,8%
+09-07-2018,Projector,Mark,22,150,2%
+09-07-2018,White Board,Bob,17,40,2%
+09-07-2018,Printer,Bob,17,80,7%
+09-07-2018,Projector,Stacey,4,150,12%
+09-07-2018,Diary,Stacey,14,16,12%
+09-07-2018,Diary,John,18,16,11%
+09-07-2018,Printer,Bob,22,80,9%
+09-07-2018,Office Chair,Mark,12,230,3%
+09-07-2018,White Board,Mark,12,40,10%
+10-07-2018,White Board,Bob,7,40,12%
+10-07-2018,Printer,John,12,80,4%
+10-07-2018,Diary,Bob,17,16,10%
+10-07-2018,Office Chair,Mark,6,230,10%
+10-07-2018,White Board,John,11,40,4%
+10-07-2018,Diary,Stacey,10,16,4%
+10-07-2018,Printer,John,6,80,7%
+10-07-2018,White Board,Stacey,11,40,9%
+10-07-2018,Printer,Bob,16,80,9%
+10-07-2018,White Board,Stacey,13,40,9%
+10-07-2018,Office Chair,John,5,230,10%
+11-07-2018,White Board,Bob,7,40,5%
+11-07-2018,Printer,Laura,14,80,10%
+11-07-2018,Diary,Bob,12,16,4%
+11-07-2018,Office Chair,Laura,14,230,3%
+11-07-2018,Printer,Bob,21,80,9%
+11-07-2018,Office Chair,Laura,5,230,10%
+11-07-2018,White Board,Bob,16,40,9%
+11-07-2018,Projector,Mark,15,150,12%
+11-07-2018,Diary,Bob,23,16,1%
+11-07-2018,Diary,Mark,22,16,4%
+11-07-2018,Printer,John,20,80,1%
+11-07-2018,White Board,Stacey,6,40,7%
+12-07-2018,Projector,Mark,10,150,1%
+12-07-2018,Printer,Stacey,17,80,5%
+12-07-2018,Projector,John,13,150,5%
+12-07-2018,Office Chair,Stacey,8,230,5%
+12-07-2018,Diary,John,10,16,8%
+12-07-2018,White Board,Mark,4,40,6%
+12-07-2018,White Board,Bob,18,40,6%
+12-07-2018,Projector,Stacey,15,150,5%
+12-07-2018,Projector,Stacey,3,150,1%
+12-07-2018,Diary,John,12,16,11%
+13-07-2018,Printer,Bob,17,80,7%
+13-07-2018,Office Chair,John,3,230,6%
+13-07-2018,Printer,Laura,20,80,7%
+13-07-2018,Office Chair,Mark,14,230,5%
+13-07-2018,White Board,Bob,16,40,9%
+13-07-2018,Diary,Mark,7,16,8%
+13-07-2018,White Board,Mark,19,40,10%
+13-07-2018,Office Chair,Stacey,7,230,6%
+13-07-2018,White Board,Bob,20,40,3%
+13-07-2018,Diary,Laura,11,16,12%
+13-07-2018,Printer,Bob,16,80,9%
+13-07-2018,Diary,John,21,16,9%
+13-07-2018,Diary,John,22,16,1%
+13-07-2018,Office Chair,Stacey,23,230,6%
+13-07-2018,Projector,John,9,150,10%
+13-07-2018,Projector,Laura,9,150,6%
+14-07-2018,Office Chair,John,9,230,7%
+14-07-2018,Printer,Laura,10,80,8%
+14-07-2018,Diary,Laura,23,16,11%
+14-07-2018,Printer,Stacey,22,80,3%
+14-07-2018,Printer,Stacey,4,80,11%
+14-07-2018,Diary,John,22,16,6%
+14-07-2018,White Board,Mark,15,40,2%
+14-07-2018,White Board,Bob,7,40,4%
+14-07-2018,Diary,Bob,2,16,4%
+14-07-2018,Printer,Stacey,7,80,2%
+15-07-2018,Diary,Bob,22,16,12%
+15-07-2018,White Board,Mark,21,40,3%
+15-07-2018,Printer,John,6,80,1%
+15-07-2018,Printer,Bob,13,80,5%
+15-07-2018,Printer,Stacey,11,80,1%
+15-07-2018,White Board,John,18,40,6%
+15-07-2018,Projector,Stacey,7,150,5%
+15-07-2018,White Board,John,2,40,12%
+15-07-2018,Printer,Mark,14,80,6%
+15-07-2018,Projector,Bob,7,150,3%
+15-07-2018,Diary,Stacey,10,16,1%
+16-07-2018,White Board,Mark,7,40,1%
+16-07-2018,Diary,Stacey,7,16,8%
+16-07-2018,Projector,Laura,15,150,5%
+16-07-2018,Printer,John,7,80,2%
+16-07-2018,White Board,Laura,6,40,6%
+16-07-2018,Office Chair,John,3,230,6%
+16-07-2018,Projector,Laura,20,150,4%
+16-07-2018,Office Chair,Laura,20,230,6%
+16-07-2018,Diary,Laura,14,16,1%
+16-07-2018,Projector,Laura,20,150,4%
+16-07-2018,Printer,John,17,80,9%
+17-07-2018,Projector,Laura,20,150,12%
+17-07-2018,Diary,Laura,11,16,4%
+17-07-2018,Office Chair,Bob,7,230,5%
+17-07-2018,White Board,Mark,14,40,6%
+17-07-2018,Printer,Mark,13,80,6%
+17-07-2018,Diary,Laura,17,16,5%
+17-07-2018,Office Chair,Laura,12,230,3%
+17-07-2018,White Board,Mark,4,40,12%
+17-07-2018,Diary,John,20,16,1%
+17-07-2018,Printer,Stacey,8,80,6%
+17-07-2018,Printer,John,18,80,2%
+17-07-2018,Diary,Laura,6,16,6%
+17-07-2018,Printer,John,9,80,4%
+18-07-2018,Printer,Laura,8,80,2%
+18-07-2018,Projector,Stacey,6,150,3%
+18-07-2018,Diary,Stacey,14,16,12%
+18-07-2018,Printer,Laura,6,80,9%
+18-07-2018,White Board,Bob,23,40,4%
+18-07-2018,White Board,Laura,12,40,2%
+18-07-2018,White Board,Stacey,22,40,1%
+18-07-2018,Projector,Stacey,6,150,3%
+18-07-2018,Diary,Bob,19,16,2%
+18-07-2018,White Board,Laura,2,40,2%
+19-07-2018,White Board,Stacey,22,40,1%
+19-07-2018,Office Chair,Stacey,3,230,1%
+19-07-2018,White Board,Stacey,23,40,6%
+19-07-2018,White Board,Bob,5,40,3%
+19-07-2018,Printer,John,8,80,8%
+19-07-2018,White Board,Laura,18,40,3%
+19-07-2018,White Board,Bob,20,40,10%
+19-07-2018,White Board,Laura,2,40,3%
+19-07-2018,Office Chair,John,15,230,5%
+19-07-2018,Projector,Stacey,15,150,8%
+19-07-2018,Projector,Stacey,22,150,5%
+19-07-2018,Office Chair,Mark,19,230,11%
+19-07-2018,Printer,Mark,10,80,11%
+19-07-2018,White Board,Stacey,18,40,6%
+19-07-2018,Printer,Stacey,16,80,5%
+19-07-2018,Projector,Bob,17,150,2%
+20-07-2018,Office Chair,John,8,230,3%
+20-07-2018,Printer,Stacey,11,80,1%
+20-07-2018,White Board,John,5,40,6%
+20-07-2018,White Board,Bob,11,40,5%
+20-07-2018,Projector,Stacey,20,150,10%
+20-07-2018,Projector,Laura,11,150,11%
+20-07-2018,Printer,Stacey,2,80,8%
+20-07-2018,Projector,Mark,16,150,8%
+20-07-2018,Diary,John,20,16,11%
+20-07-2018,Office Chair,Laura,2,230,9%
+20-07-2018,Projector,John,20,150,4%
+20-07-2018,Projector,John,22,150,7%
+20-07-2018,Projector,Laura,22,150,4%
+20-07-2018,White Board,John,23,40,7%
+21-07-2018,Diary,Laura,11,16,4%
+21-07-2018,Office Chair,Mark,11,230,10%
+21-07-2018,Office Chair,John,7,230,8%
+21-07-2018,Projector,Mark,13,150,8%
+21-07-2018,Office Chair,Stacey,16,230,11%
+21-07-2018,Office Chair,Bob,20,230,9%
+21-07-2018,White Board,Laura,20,40,1%
+21-07-2018,Printer,John,20,80,1%
+21-07-2018,Projector,John,5,150,11%
+22-07-2018,White Board,Laura,4,40,11%
+22-07-2018,Diary,John,7,16,12%
+22-07-2018,Diary,Mark,22,16,1%
+22-07-2018,White Board,Stacey,15,40,3%
+22-07-2018,Printer,Mark,14,80,11%
+22-07-2018,Diary,Mark,15,16,2%
+23-07-2018,Printer,Stacey,19,80,2%
+23-07-2018,White Board,Bob,20,40,5%
+23-07-2018,White Board,Stacey,11,40,6%
+23-07-2018,Projector,Laura,11,150,5%
+23-07-2018,Printer,Stacey,23,80,11%
+23-07-2018,Printer,John,8,80,9%
+23-07-2018,White Board,Stacey,9,40,6%
+23-07-2018,Office Chair,Bob,13,230,6%
+23-07-2018,White Board,Stacey,22,40,1%
+23-07-2018,Diary,Bob,14,16,6%
+24-07-2018,Printer,Mark,5,80,4%
+24-07-2018,Projector,Bob,18,150,12%
+24-07-2018,Office Chair,Laura,14,230,12%
+24-07-2018,Office Chair,Bob,20,230,11%
+24-07-2018,Diary,Bob,3,16,3%
+24-07-2018,Office Chair,Laura,20,230,6%
+24-07-2018,Printer,Bob,9,80,2%
+24-07-2018,Diary,Stacey,22,16,3%
+24-07-2018,Printer,Mark,15,80,12%
+24-07-2018,Projector,John,11,150,5%
+24-07-2018,Office Chair,Stacey,11,230,12%
+24-07-2018,Projector,John,20,150,1%
+24-07-2018,White Board,Laura,11,40,12%
+25-07-2018,Office Chair,Laura,12,230,6%
+25-07-2018,White Board,John,15,40,6%
+25-07-2018,White Board,Stacey,13,40,9%
+25-07-2018,White Board,Bob,4,40,9%
+25-07-2018,Office Chair,Stacey,18,230,1%
+25-07-2018,Diary,John,7,16,2%
+25-07-2018,Diary,Laura,6,16,7%
+25-07-2018,Office Chair,Stacey,8,230,5%
+25-07-2018,Diary,Laura,12,16,11%
+25-07-2018,Office Chair,John,11,230,2%
+25-07-2018,Diary,Laura,3,16,5%
+26-07-2018,Projector,Mark,16,150,5%
+26-07-2018,Office Chair,Stacey,8,230,1%
+26-07-2018,Printer,Laura,16,80,4%
+26-07-2018,Diary,Stacey,18,16,4%
+26-07-2018,White Board,Bob,14,40,11%
+26-07-2018,Diary,Mark,21,16,2%
+26-07-2018,Diary,Mark,7,16,8%
+26-07-2018,Printer,Laura,7,80,5%
+26-07-2018,White Board,Bob,16,40,9%
+26-07-2018,Office Chair,Bob,22,230,10%
+26-07-2018,White Board,Mark,4,40,3%
+26-07-2018,Office Chair,Bob,3,230,10%
+26-07-2018,Printer,Mark,14,80,11%
+27-07-2018,White Board,Bob,21,40,1%
+27-07-2018,Diary,Mark,20,16,6%
+27-07-2018,Printer,Bob,22,80,11%
+27-07-2018,White Board,John,7,40,10%
+27-07-2018,Projector,Mark,16,150,5%
+27-07-2018,Office Chair,Mark,7,230,5%
+27-07-2018,Projector,John,20,150,3%
+27-07-2018,Projector,Mark,16,150,3%
+27-07-2018,Diary,Stacey,10,16,4%
+27-07-2018,Printer,Bob,6,80,9%
+27-07-2018,Printer,John,17,80,9%
+27-07-2018,White Board,John,19,40,4%
+27-07-2018,White Board,Bob,16,40,9%
+27-07-2018,Diary,John,4,16,12%
+27-07-2018,Projector,Stacey,9,150,2%
+27-07-2018,Diary,John,11,16,9%
+27-07-2018,Printer,Mark,17,80,3%
+28-07-2018,Projector,John,3,150,3%
+28-07-2018,Office Chair,Stacey,2,230,8%
+28-07-2018,Office Chair,Stacey,17,230,12%
+28-07-2018,Projector,Mark,2,150,9%
+28-07-2018,White Board,Stacey,18,40,6%
+28-07-2018,Projector,Laura,18,150,6%
+28-07-2018,White Board,Mark,12,40,10%
+28-07-2018,Printer,John,21,80,4%
+28-07-2018,White Board,Bob,3,40,3%
+28-07-2018,Printer,Bob,22,80,10%
+28-07-2018,White Board,Bob,16,40,11%
+28-07-2018,Diary,John,11,16,9%
+29-07-2018,Printer,Laura,10,80,8%
+29-07-2018,Diary,Laura,12,16,3%
+29-07-2018,Projector,John,8,150,9%
+29-07-2018,White Board,Bob,10,40,3%
+29-07-2018,Projector,John,7,150,2%
+29-07-2018,Diary,Laura,6,16,1%
+29-07-2018,Printer,Stacey,15,80,8%
+29-07-2018,Diary,Bob,13,16,7%
+29-07-2018,Office Chair,Stacey,19,230,6%
+29-07-2018,Printer,Stacey,21,80,5%
+29-07-2018,Printer,Mark,5,80,7%
+29-07-2018,Diary,Laura,8,16,3%
+29-07-2018,Diary,Laura,12,16,11%
+29-07-2018,Printer,Stacey,22,80,3%
+29-07-2018,White Board,John,5,40,9%
+30-07-2018,Projector,Mark,23,150,11%
+30-07-2018,Printer,John,16,80,3%
+30-07-2018,Projector,Bob,15,150,7%
+30-07-2018,White Board,John,20,40,4%
+30-07-2018,Office Chair,Laura,10,230,2%
+30-07-2018,Printer,Mark,9,80,3%
+30-07-2018,Office Chair,John,16,230,7%
+30-07-2018,Printer,Mark,21,80,4%
+30-07-2018,Printer,Mark,9,80,3%
+30-07-2018,White Board,Mark,4,40,12%
+30-07-2018,Office Chair,Laura,5,230,1%
+30-07-2018,Diary,John,18,16,5%
+31-07-2018,Printer,Laura,6,80,1%
+31-07-2018,Projector,Bob,4,150,5%
+31-07-2018,Office Chair,Bob,21,230,5%
+31-07-2018,Projector,John,4,150,6%
+31-07-2018,Printer,Mark,2,80,4%
+31-07-2018,Diary,Mark,5,16,11%
+31-07-2018,Projector,Bob,23,150,8%
+31-07-2018,Printer,Mark,3,80,2%
+31-07-2018,Office Chair,Bob,17,230,11%
+31-07-2018,White Board,Laura,11,40,5%
+31-07-2018,Office Chair,John,7,230,2%
+31-07-2018,White Board,Laura,13,40,2%
